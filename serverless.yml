@@ -5,7 +5,7 @@
 #
 # Happy Coding!
 
-service: fleet-customer-api
+service: serverlessasyncbroken
 app: fleet-customer-api
 tenant: louisdeslandesfleet
 
